@@ -1,4 +1,3 @@
-<img width="1919" height="620" alt="image" src="https://github.com/user-attachments/assets/7f07182d-bf87-434f-911f-1a483024ec68" /># Laravel CRM System
 
 A simple Customer Relationship Management (CRM) system built using Laravel.
 
